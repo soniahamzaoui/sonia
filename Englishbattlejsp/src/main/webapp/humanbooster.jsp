@@ -11,7 +11,7 @@
 
 
 <body>
-	<h1>English Battle</h1>
+	<h1>The big Breat Britain Battle</h1>
 	
 	<p>${jojo.nom} ${jojo.prenom}</p>
 	
