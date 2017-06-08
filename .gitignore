@@ -1,7 +1,13 @@
+.metadata/
+*/.metadata/
+
 # Eclipse
 .classpath
+*/.classpath
 .project
+*/.project
 .settings/
+*/.settings/
 
 # Intellij
 .idea/
